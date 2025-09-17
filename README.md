@@ -1,4 +1,4 @@
-📄 README – Análise de Dutos
+ README – Análise de Dutos
 
 Este projeto foi desenvolvido como parte de um processo seletivo de estágio.
 Ele lê um arquivo CSV (TesteEstagio.csv) contendo dados de operação de dutos e realiza análises básicas, como:
@@ -11,7 +11,7 @@ Valor máximo registrado;
 
 Primeiro horário em que a vazão ultrapassou 1500.
 
-📂 Estrutura do Projeto
+ Estrutura do Projeto
 
 O projeto contém os seguintes arquivos .java:
 
@@ -25,7 +25,7 @@ AnalisadorDuto.java → Contém a lógica de análise dos dados.
 
 Além disso, é necessário um arquivo TesteEstagio.csv, que deve estar na mesma pasta dos .java.
 
-⚙️ Pré-requisitos
+ Pré-requisitos
 
 Java JDK 8 ou superior instalado
 
@@ -38,11 +38,11 @@ Para verificar se o Java está instalado corretamente:
 java -version
 javac -version
 
-🖥️ Como Compilar e Executar
+Como Compilar e Executar
 
 As instruções abaixo assumem que você está no terminal (Linux) ou no Prompt de Comando / PowerShell (Windows), dentro da pasta raiz do projeto.
 
-🔹 Instruções para Linux
+Instruções para Linux
 
 Abra o Terminal.
 
@@ -62,7 +62,7 @@ Execute o programa:
 
 java Main
 
-🔹 Instruções para Windows
+Instruções para Windows
 
 Abra o Prompt de Comando (CMD) ou PowerShell.
 
@@ -80,7 +80,7 @@ Execute o programa:
 
 java Main
 
-📝 Exemplo de saída
+Exemplo de saída
 Coluna: Vazão, descarga da EB
 Horas de operação: 19
 Qtd de operações: 9
