@@ -49,3 +49,18 @@ Como executar:
 Após a compilação, execute o programa com:
 
 java Main
+
+O programa irá:
+
+Ler o arquivo TesteEstagio.csv
+
+Extrair os dados da coluna Vazao, descarga da EB
+
+Exibir no console os resultados da análise
+
+Exemplo de saída
+Coluna: Vazao, descarga da EB
+Horas de operação: 5
+Qtd de operações: 3
+Valor máximo: 1870.5
+Primeiro horário > 1500: 12:30
