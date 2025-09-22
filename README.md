@@ -57,7 +57,7 @@ Extrair os dados da coluna Vazao, descarga da EB
 Exibir no console os resultados da análise
 
 Exemplo de saída
-yaml
+
 Copiar código
 Coluna: Vazao, descarga da EB
 Horas de operação: 5
